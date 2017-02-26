@@ -21,23 +21,23 @@
     
     <!-- Generic strings -->
     <string name="cancel">取消</string>
-    <string name="ok">OK</string>
+    <string name="ok">确定</string>
     <string name="delete">删除</string>
     <string name="back">返回</string>
     <string name="help">帮助</string>
-    <string name="loading">正在下载&#8230;</string>
+    <string name="loading">正在加载&#8230;</string>
     <string name="filename_separator">-</string>
     <string name="download">下载</string>
     <string name="install">安装</string>
-    <string name="downloading">正在安装&#8230;</string>
-    <string name="rebooting">重启&#8230;</string>
+    <string name="downloading">正在下载&#8230;</string>
+    <string name="rebooting">正在重启&#8230;</string>
     <string name="information">信息</string>
-    <string name="update_available">ROM可用更新</string>
+    <string name="update_available">ROM 可用更新</string>
     <string name="ignore">忽略</string>
     <string name="donate">捐赠</string>
-    <string name="finished">完成</string>
+    <string name="finished">已完成</string>
     <string name="settings">设置</string>
     <string name="done">完成</string>
-    <string name="delete_confirm">您确定要删除这个文件吗？</string>
+    <string name="delete_confirm">您确定要删除这个文件？</string>
 
 </resources>
